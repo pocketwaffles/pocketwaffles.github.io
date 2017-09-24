@@ -1,0 +1,115 @@
+/* Note to students: Some properties are given to you to fill out,
+others you can modify as they stand, and if you have time,
+there are definitely some properties you should add!*/
+
+    html {
+      height: 100%;
+    }
+    body {
+       width: 100%;
+       height: 100%;
+    }
+
+    header {
+        background-color: #FFF494;
+        padding: 5px;
+        text-align: center;
+        float: center;
+        border: 5px none #000000;
+        margin: 0px 10px 10px 10px;
+        font-size: 30px;
+        display: block;
+    }
+    img {
+
+    }
+
+    .bear {
+        height: 80%;
+        float:left;
+        margin: 0px 0px 0px 30px
+        /*margin: 20px;*/
+    }
+
+    .amazon{
+        width:150px
+
+    }
+
+    .paypal{
+        width:150px
+    }
+
+    .info{
+        display: block;
+        width: 60%;
+        margin-top: 10px;
+        float: left;
+    }
+
+      .event{
+        float: none;
+        display:inline-block;
+    }
+
+      .navlist{
+        /*display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 10px;
+        border-bottom: solid #000000;*/
+    }
+
+    nav {
+        float: center;
+        text-align: center;
+        width: 100%
+
+    }
+    nav ul {
+        float:left;
+        text-align: center;
+        border-bottom: solid #000000;
+        border-top: solid #000000;
+        list-style-type:none ;
+        width: 100%
+    }
+    nav li {
+        float:center;
+        display: inline-block;
+    }
+    nav li a {
+        display: block;
+        height: 25px;
+        padding: 12px 18px 8px 18px;
+        vertical-align: middle;
+    }
+    a {
+        color: ;
+    }
+    section {
+        width: 100%;
+        display: inline-block;
+        float: left;
+    }
+    aside {
+        width: 17%;
+        display: inline-block;
+        background-color:;
+        padding:;
+        min-height: 100%;
+    }
+    aside ul {
+        list-style-type: none;
+    }
+    footer {
+        width: 100%;
+        margin-top: 30px;
+        background-color:;
+        vertical-align: bottom;
+        text-align: center;
+        border-top: solid #000000;
+        color:;
+        clear: both;
+        display: block;
+    }
